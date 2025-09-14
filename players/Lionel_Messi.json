@@ -1,0 +1,24 @@
+{
+    "strengths": [
+        "Passing",
+        "Dribbling",
+        "Long shots",
+        "Direct free-kicks",
+        "Holding on to the ball",
+        "Key passes",
+        "Through balls",
+        "Finishing"
+    ],
+    "weaknesses": [
+        "Aerial Duels",
+        "Defensive contribution"
+    ],
+    "style_of_play": [
+        "Likes to dribble",
+        "Likes to play long balls",
+        "Likes to cut inside",
+        "Likes to shoot from distance",
+        "Plays the ball off the ground often",
+        "Does not dive into tackles"
+    ]
+}
