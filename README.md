@@ -4,7 +4,7 @@ ws = sd.WhoScored(leagues="ENG-Premier League", seasons=2021) #przykladowy sezon
 schedule = ws.read_schedule() #terminarz - stad bierzemy id meczy 
 match_ids = schedule["game_id"].unique() #unikalne id meczy z terminarza 
 
-results = [] 
+results = [] #to jest tabela z unikalnymi id z sezonu
 
 for game_id in match_ids:
     try:
